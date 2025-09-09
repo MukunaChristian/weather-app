@@ -29,13 +29,19 @@ Follow these steps to run the Weather App on your own computer:
 1. **Clone the repository**  
 Open a terminal and run:
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-app.git
+git clone https://github.com/MukunaChristian/weather-app.git
 cd weather-app
 
 
 2. **Install dependencies**  
 npm install
 npm run dev
+
+3. Generate OpenWeatherMap API key3
+
+4. Add it to .env.local
+
+5.Run the app
 
 
 
